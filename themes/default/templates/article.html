@@ -1,0 +1,12 @@
+{% extends 'index.html' %}
+
+{% block content %}
+    <div class="pt-3 row">
+        <div class="col">
+            <h2>{{ article.category.name }}</h2>
+            <hr>
+            <h3>{{ article.title }}</h3>
+            {{ article.content }}
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@{{ BOOTSTRAP_VERSION }}/dist/css/bootstrap.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <title>{{ SITENAME }}</title>
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-9 col-lg-7 col-xl-6 col-xxl-5 mx-auto">
+            <div class="pt-3 row">
+                <div class="col">
+                    <h1><a href="/">{{ SITENAME }}</a></h1>
+                    <hr>
+                </div>
+            </div>
+            {% block content %}
+            <div class="pt-3 row">
+                <div class="col">
+                {% for category, articles in categories %}
+                    <h2>{{ category }}</h2>
+                    <ul>
+                    {% for article in articles %}
+                        <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+                    {% endfor %}
+                    </ul>
+                {% endfor %}
+                </div>
+            </div>
+            {% endblock %}
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

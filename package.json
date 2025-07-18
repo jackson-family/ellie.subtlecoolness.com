@@ -2,7 +2,7 @@
   "dependencies": {
     "bootstrap": "5.3.7"
   },
-  "description": "This file (package.json) was generated from ci/gen-package-json.py",
+  "description": "This file (package.json) was generated from ci/gen.py",
   "license": "UNLICENSED",
   "name": "ellie.subtlecoolness.com",
   "private": true,

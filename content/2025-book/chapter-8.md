@@ -12,3 +12,9 @@ awoke to the sound of Jake spray-painting. Jake! I scold. Heeeeeeeey, you’re a
 am now, man. Sorry bout’ that. I was just reminding myself of how fun it is to do graffiti. I
 used to do it with my friends tricky and- *wait for it-* lucy! I laugh in response. Wow! This lucy
 sounds a lot like me.
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-7.md">&larr; Chapter 7</a>
+    </div>
+</div>

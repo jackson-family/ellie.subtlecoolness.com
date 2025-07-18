@@ -9,3 +9,12 @@ was coming over today. April is my cousin. “Ready for some Mario cart”? She 
 pretty close, but I come in first. Woo-hoo! I shout. Darn it. April says as she sets down her Wii remote.
 Lucy! I hear my mom call. Time for cookies! *Yummy.* My mom’s chocolate chip cookies are the best cookies
 ever. I happily eat two. Bye April! I say. See you later!
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-2.md">&larr; Chapter 2</a>
+    </div>
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-4.md">Chapter 4 &rarr;</a>
+    </div>
+</div>

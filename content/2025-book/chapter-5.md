@@ -12,3 +12,12 @@ this knot in my hair. *Ow!* Ok… maybe “knot”. *Geddit?* That night, at twe
 snuck out of the house. Thoughts were pounding my head. When I got out of the house, I ran
 *2 miles* to the city. It was creepily quiet. I found a nice tree branch to sit on. I soon
 lay down and fell asleep.
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-4.md">&larr; Chapter 4</a>
+    </div>
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-6.md">Chapter 6 &rarr;</a>
+    </div>
+</div>

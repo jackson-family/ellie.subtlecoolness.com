@@ -14,3 +14,12 @@ autograph? *Huh?* We were all thinking the same thing. Jay Gonzoles. You are fam
 us are *so confused*. What? Jay asks. I said you are famous. Umm… bye! Have a good rest of
 your night! The next thing I hear is WHAT!? Yeah! I say. what!?  Um… I *guess* I’m famous
 now. Well… good night. Good night indeed.
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-6.md">&larr; Chapter 6</a>
+    </div>
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-8.md">Chapter 8 &rarr;</a>
+    </div>
+</div>

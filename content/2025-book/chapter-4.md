@@ -11,3 +11,12 @@ My parents didn’t always understand me. That night, I lied in my bed staring a
 ceiling. Was my life really in this house? Really in this town? Did I really belong
 here? The answer to that question… was no. my life was not in this house. Not in
 this town. I didn’t belong here. Well, that settles it. I was running away tomorrow.
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-3.md">&larr; Chapter 3</a>
+    </div>
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-5.md">Chapter 5 &rarr;</a>
+    </div>
+</div>

@@ -16,3 +16,12 @@ running away from home.  I feel a tear forming in my eye. “I’ve got a “cre
 Jay whistles. A second later I’m surrounded. “So…” one of them starts. “Is this that “friend
 we’ve been told about”? y-you told them about me? Jay starts to blush. D-don’t mention it.
 *Sigh.* Jay. Could never keep a secret. Well… Jay starts. He hands me a whistle. Just use it if you need us. Ok. See you!
+
+<div class="row">
+    <div class="col-auto">
+        <a href="{filename}chapter-5.md">&larr; Chapter 5</a>
+    </div>
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-7.md">Chapter 7 &rarr;</a>
+    </div>
+</div>

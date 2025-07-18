@@ -10,6 +10,8 @@ my brother Luke. &ldquo;Lucy? Movie time!&rdquo; I smile. Tonight is the Disney 
 We watch _Frozen_, _Snow White_, and _Sleeping Beauty_. I immediately get sent straight
 back up into my room for bed. 
 
-[Chapter 2 &rarr;][a]
-
-[a]: {filename}chapter-2.md
+<div class="row">
+    <div class="col-auto ms-auto">
+        <a href="{filename}chapter-2.md">Chapter 2 &rarr;</a>
+    </div>
+</div>

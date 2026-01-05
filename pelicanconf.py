@@ -7,7 +7,8 @@ BOOTSTRAP_VERSION = package_json.get("dependencies").get("bootstrap")
 # WARNING Feeds generated without SITEURL set properly may not be valid
 SITEURL = "https://ellie.subtlecoolness.com"
 
-# WARNING No timezone information specified in the settings. Assuming your timezone is UTC for feed generation.
+# WARNING No timezone information specified in the settings. Assuming your timezone is
+# UTC for feed generation.
 TIMEZONE = "America/Chicago"
 
 # Default path is working directory, so change to "content" directory

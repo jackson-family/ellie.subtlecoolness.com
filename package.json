@@ -1,10 +1,9 @@
 {
+  "name": "ellie.subtlecoolness.com",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
   "dependencies": {
     "bootstrap": "5.3.7"
-  },
-  "description": "This file (package.json) was generated from ci/gen.py",
-  "license": "UNLICENSED",
-  "name": "ellie.subtlecoolness.com",
-  "private": true,
-  "version": "1.0.0"
+  }
 }

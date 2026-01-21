@@ -14,9 +14,9 @@ this town. I didn’t belong here. Well, that settles it. I was running away tom
 
 <div class="row">
     <div class="col-auto">
-        <a href="{filename}chapter-3.md">&larr; Chapter 3</a>
+        <a href="{filename}chapter-03.md">&larr; Chapter 3</a>
     </div>
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-5.md">Chapter 5 &rarr;</a>
+        <a href="{filename}chapter-05.md">Chapter 5 &rarr;</a>
     </div>
 </div>

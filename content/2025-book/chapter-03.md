@@ -12,9 +12,9 @@ ever. I happily eat two. Bye April! I say. See you later!
 
 <div class="row">
     <div class="col-auto">
-        <a href="{filename}chapter-2.md">&larr; Chapter 2</a>
+        <a href="{filename}chapter-02.md">&larr; Chapter 2</a>
     </div>
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-4.md">Chapter 4 &rarr;</a>
+        <a href="{filename}chapter-04.md">Chapter 4 &rarr;</a>
     </div>
 </div>

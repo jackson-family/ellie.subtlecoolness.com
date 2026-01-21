@@ -13,9 +13,9 @@ pro-16. After dinner and ice cream, I head back to my room for bed.
 
 <div class="row">
     <div class="col-auto">
-        <a href="{filename}chapter-1.md">&larr; Chapter 1</a>
+        <a href="{filename}chapter-01.md">&larr; Chapter 1</a>
     </div>
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-3.md">Chapter 3 &rarr;</a>
+        <a href="{filename}chapter-03.md">Chapter 3 &rarr;</a>
     </div>
 </div>

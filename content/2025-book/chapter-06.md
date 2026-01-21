@@ -19,9 +19,9 @@ we’ve been told about”? y-you told them about me? Jay starts to blush. D-don
 
 <div class="row">
     <div class="col-auto">
-        <a href="{filename}chapter-5.md">&larr; Chapter 5</a>
+        <a href="{filename}chapter-05.md">&larr; Chapter 5</a>
     </div>
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-7.md">Chapter 7 &rarr;</a>
+        <a href="{filename}chapter-07.md">Chapter 7 &rarr;</a>
     </div>
 </div>

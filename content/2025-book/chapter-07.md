@@ -17,9 +17,9 @@ now. Well… good night. Good night indeed.
 
 <div class="row">
     <div class="col-auto">
-        <a href="{filename}chapter-6.md">&larr; Chapter 6</a>
+        <a href="{filename}chapter-06.md">&larr; Chapter 6</a>
     </div>
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-8.md">Chapter 8 &rarr;</a>
+        <a href="{filename}chapter-08.md">Chapter 8 &rarr;</a>
     </div>
 </div>

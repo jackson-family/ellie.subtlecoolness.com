@@ -12,6 +12,6 @@ back up into my room for bed.
 
 <div class="row">
     <div class="col-auto ms-auto">
-        <a href="{filename}chapter-2.md">Chapter 2 &rarr;</a>
+        <a href="{filename}chapter-02.md">Chapter 2 &rarr;</a>
     </div>
 </div>
